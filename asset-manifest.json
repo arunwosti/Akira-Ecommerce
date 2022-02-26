@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Akira-Ecommerce/static/css/main.8cf51e4d.css",
+    "main.js": "/Akira-Ecommerce/static/js/main.952170e1.js",
+    "static/js/787.7d4a58c2.chunk.js": "/Akira-Ecommerce/static/js/787.7d4a58c2.chunk.js",
+    "static/media/b3.png": "/Akira-Ecommerce/static/media/b3.7494a899c87aecbf7dad.png",
+    "static/media/b2.png": "/Akira-Ecommerce/static/media/b2.727c7ec165a0a75bdc5f.png",
+    "static/media/b1.png": "/Akira-Ecommerce/static/media/b1.0e75805ebd1e2360d678.png",
+    "static/media/en3.png": "/Akira-Ecommerce/static/media/en3.a9b883744f8809f43fb1.png",
+    "static/media/ln2.png": "/Akira-Ecommerce/static/media/ln2.bd943958621724c1e4e5.png",
+    "static/media/en2.png": "/Akira-Ecommerce/static/media/en2.ca425e98403dd8bfb549.png",
+    "static/media/ln1.png": "/Akira-Ecommerce/static/media/ln1.a5e00692b9a82f3b45bf.png",
+    "static/media/ln3.png": "/Akira-Ecommerce/static/media/ln3.4913b3f3b9d67cbfe6bc.png",
+    "static/media/bg.png": "/Akira-Ecommerce/static/media/bg.e2e2aa8328c90ae0b459.png",
+    "static/media/logo.svg": "/Akira-Ecommerce/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/Akira-Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Akira-Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Akira-Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Akira-Ecommerce/index.html",
+    "static/media/slick.woff": "/Akira-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "main.8cf51e4d.css.map": "/Akira-Ecommerce/static/css/main.8cf51e4d.css.map",
+    "main.952170e1.js.map": "/Akira-Ecommerce/static/js/main.952170e1.js.map",
+    "787.7d4a58c2.chunk.js.map": "/Akira-Ecommerce/static/js/787.7d4a58c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf51e4d.css",
+    "static/js/main.952170e1.js"
+  ]
+}
