@@ -27,9 +27,7 @@ function App() {
       <Menu/>
       <Nav/>
       <Menu2/>
-      <Routes>
-      <Route path="/" element={<Home />} />
-      </Routes>
+      <Home/>
       
        <MultipleItems/>
        

@@ -19,19 +19,19 @@ export default function Menu2() {
                 <Link className="nav-link active" aria-current="page" to="/">HOME</Link>
               </li>
               <li class="nav-item  ">
-                <Link class="nav-link active" to="/shop">SHOP</Link>
+                <Link class="nav-link" to="/shop">SHOP</Link>
               </li>
               <li class="nav-item ">
-                <Link class="nav-link active" to="/blog">BLOG</Link>
+                <Link class="nav-link " to="/blog">BLOG</Link>
               </li>
               <li class="nav-item ">
-                <Link class="nav-link active" to="/pages">PAGES</Link>
+                <Link class="nav-link " to="/pages">PAGES</Link>
               </li>
               <li class="nav-item ">
-                <Link class="nav-link active" to="/contact">CONTACT US</Link>
+                <Link class="nav-link " to="/contact">CONTACT US</Link>
               </li>
               <li class="nav-item ">
-                <Link class="nav-link active" to="/buy">BUY</Link>
+                <Link class="nav-link " to="/buy">BUY</Link>
               </li>
               
               
